@@ -12,6 +12,7 @@ public class HelloWorld {
 		
 		System.out.println("Hello World");
 		System.out.println("Hello World, im adding more code to my program");
+		System.out.println("Hello World, im adding more code from git");
 	}
 
 }
